@@ -30,32 +30,6 @@ Looker Studio (for dashboard & reporting)
 ERD / schema design
 
 ---
-# 📂 Project Structure
-
-pizza-inventory-analytics/
-
-│── data/
-
-│     └── pizza_data.csv
-
-
-│── sql/
-
-│     └── create_tables.sql
-
-│     └── insert_data.sql
-
-│     └── analytics_queries.sql
-
-│── dashboard/
-
-│     └── looker_screenshot1.png
-
-│     └── looker_screenshot2.png
-
-│── README.md
-
----
 # 📊 Dashboard Insights (Looker Studio)
 Includes visualizations for:
 
@@ -94,6 +68,37 @@ Connect Cloud SQL to Looker Studio
 Build dashboard visualizations
 
 ---
+## 📊 Looker Studio Dashboards
+
+This project includes interactive analytics dashboards built with **Google Looker Studio**, connected to my MySQL database (Navicat Premium + Google Cloud).
+
+### 🔗 Dashboard Access
+If you want to view the interactive version:  
+👉 **Looker Studio Dashboard:** [https://lookerstudio.google.com/s/gv5lcQP7-60]
+
+
+
+---
+
+### 🧾 Staff Dashboard
+Shows total staff cost, hours worked, and individual shift breakdown.
+
+![Staff Dashboard](./looker_screens/staff.png)
+
+---
+
+### 🧾 Inventory Dashboard
+Displays ingredient usage, ordering cost, percent contribution, and cost per pizza.
+
+![Inventory Dashboard](./looker_screens/inventory.png)
+
+---
+
+### 🧾 Orders Dashboard
+Includes sales metrics, delivery % breakdown, top-selling pizzas, and hourly performance.
+
+![Orders Dashboard](./looker_screens/orders.png)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).- You are free to use, modify, and share this project with proper attribution.
 
