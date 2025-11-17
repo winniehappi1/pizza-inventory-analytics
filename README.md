@@ -33,15 +33,26 @@ ERD / schema design
 # 📂 Project Structure
 
 pizza-inventory-analytics/
-│── data/ 
+
+│── data/
+
 │     └── pizza_data.csv
+
+
 │── sql/
+
 │     └── create_tables.sql
+
 │     └── insert_data.sql
+
 │     └── analytics_queries.sql
+
 │── dashboard/
+
 │     └── looker_screenshot1.png
+
 │     └── looker_screenshot2.png
+
 │── README.md
 
 ---
