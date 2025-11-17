@@ -92,3 +92,13 @@ Run SQL scripts to clean and model the data
 Connect Cloud SQL to Looker Studio
 
 Build dashboard visualizations
+
+---
+## License
+This project is licensed under the [MIT License](LICENSE).- You are free to use, modify, and share this project with proper attribution.
+
+## About Me
+Hi there! I'm **Winnie Happi**, a **graduate student** in Data Science and an aspiring data professional eager to grow my career by applying analytical skills to real-world challenges. 
+Connect with me on LinkedIn
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn logo" width="30"/>](www.linkedin.com/in/winnie-happi-799b96352/)
+
